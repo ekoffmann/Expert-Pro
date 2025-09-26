@@ -37,8 +37,8 @@ const HeroSection = () => {
               </h1>
               
               <p className="text-xl text-slate-600 leading-relaxed">
-                Consultoría premium para empresas que buscan transformación real con IA confiable y segura. 
-                Implementamos pilotos funcionales que generan ROI tangible desde el primer mes.
+                Consultoría especializada para empresas que buscan transformación real con IA segura, rápida y a la medida, para PYMEs chilenas que eliminan el papeleo, reducen errores en un 90% y liberan hasta 20 horas semanales para que se enfoque en hacer crecer su negocio. 
+                Implementamos pilotos funcionales que generan retornos tangibles desde el primer mes.
               </p>
             </div>
 
@@ -50,11 +50,11 @@ const HeroSection = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Shield className="w-5 h-5 text-brand-600" />
-                <span className="text-sm font-semibold text-slate-700">ISO 27001 Certified</span>
+                <span className="text-sm font-semibold text-slate-700">Procesos ISO 27001 </span>
               </div>
               <div className="flex items-center space-x-2">
                 <TrendingUp className="w-5 h-5 text-brand-600" />
-                <span className="text-sm font-semibold text-slate-700">ROI 6x promedio</span>
+                <span className="text-sm font-semibold text-slate-700">Retornos 6x promedio</span>
               </div>
             </div>
 

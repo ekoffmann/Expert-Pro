@@ -8,7 +8,7 @@ const TeamSection = () => {
       role: "Director de Consultoría",
       specialization: "M.Sc Ing Civil Industrial UC. Experto en APP e IA aplicada, relación con clientes",
       experience: "+15 años liderando proyectos de transformación digital",
-      certifications: ["PMP®", "CP3P®, IA Development MIT"],
+      certifications: ["PMP®", "CP3P®, IA Development MIT","APMG: CP3P®","MIT: IA Aplicada a la Transformación Digital","Daxus: Master IA"],
       description: "Lidera el proceso consultivo y la relación estratégica con clientes. Experto en definir el alcance y asegurar el cumplimiento de la propuesta de valor.",
       photo: "/images/team/c4238c16-8094-4108-9c26-75964a6b0a98.png",
       email: "ekoffmann@expertpro.cl"
@@ -18,7 +18,7 @@ const TeamSection = () => {
       role: "Gestora de Clientes y Administración",
       specialization: "M.Sc. Ing. Comercial. Master UAI. Coordinación operativa y gestión de proyectos",
       experience: "+15 años en gestión de proyectos complejos",
-      certifications: ["PMP®", "Agile Certified", "Scrum Master"],
+      certifications: ["PMP®", "Agile Certified", "Scrum Master","UAI: People Management"],
       description: "Project Manager que coordina el equipo interno y gestiona la comunicación diaria con el cliente, asegurando que los entregables se cumplan en tiempo y forma.",
       photo: "/images/team/086e00d5-f5d6-4a8f-9ca4-f54e25460f10.png",
       email: "mkoscica@expertpro.cl"
@@ -28,7 +28,7 @@ const TeamSection = () => {
       role: "Experto Senior en Big Data",
       specialization: "Matemático UC. Diseño tecnológico y arquitectura de datos",
       experience: "+15 años en arquitectura de datos empresariales",
-      certifications: ["AWS Solutions Architect", "Google Cloud Professional", "Data Sicence - R - Python"],
+      certifications: ["HarvardX: Data Science","UC: Data Science","AWS: IAM","Yonsei: TCPIP"],
       description: "Diseña la arquitectura técnica del piloto de IA, define los flujos de datos (ETL) y supervisa la correcta implementación técnica.",
       photo: "/images/team/a46b0bd0-8242-4545-bd4e-434a7b629fdb.png",
       email: "hmunoz@expertpro.cl"
@@ -36,10 +36,10 @@ const TeamSection = () => {
     {
       name: "José Gleiser",
       role: "Transformación y Automatización de Procesos",
-      specialization: "M.Sc. UC en IT. Mentoría técnica y quality assurance",
+      specialization: "M.Sc. UC en IT. Mentoría técnica y arquitectura de soluciones",
       experience: "+20 años en big data (ex Scotiabank)",
-      certifications: ["Databricks Certified", "Hadoop Expert"],
-      description: "Asesor en desafíos técnicos complejos, busca diseñar y entregar soluciones que resuelvan el problema de negocio con escalabilidad y robustez. Estuvo a cargo de impelmentar automatización en Scotiabank Global)",
+      certifications: ["Blue Prism: Certified Developer","BCI: Bank Risk sps","Scrum FPC"],
+      description: "Asesor en desafíos técnicos complejos, busca diseñar y entregar soluciones que resuelvan el problema de negocio con escalabilidad y robustez. Estuvo a cargo de la gobernanza y estrategia de implementación de automatización en Scotiabank International Banking",
       photo: "/images/team/2f10b86b-723d-4d1d-84a7-d3e72724fcbe.png",
       email: "jgleiser@expertpro.cl"
     },
@@ -58,7 +58,7 @@ const TeamSection = () => {
       role: "Ingeniero de Integración",
       specialization: "Ing. Informático DUOC Integración ERPs y automatización",
       experience: "+10 años integrando sistemas empresariales",
-      certifications: ["SAP BTP Certified", "Microsoft Certified", "IBM: RT011 "],
+      certifications: ["ZAPcademy: SAP HANA, SAP Fiori models, BTP No Code Low Code","Logali: SAP BTP Backend Developer, SAP integration Suite"],
       description: "Lidera la integración del piloto de IA con los sistemas existentes del cliente (ERPs, CRMs), asegurando un flujo de datos bidireccional y eficiente.",
       photo: "/images/team/ca491aa2-f179-4232-872c-34d96cd523e8.png",
       email: "cbecar@expertpro.cl"
@@ -68,7 +68,7 @@ const TeamSection = () => {
       role: "Ingeniero de IA y Automatización",
       specialization: "Ing. Civil USACH. Automatización y robotización",
       experience: "+8 años desarrollando soluciones de Machine Learning",
-      certifications: ["TensorFlow Certified", "Azure AI Engineer", "Git and Github Profesional"],
+      certifications: ["PUC: Automática e informática industrial","Platzi: CI/CD Git GitHub","Daxus: Python, Master IA"],
       description: "Desarrolla el modelo de Machine Learning, implementa los algoritmos de IA y automatiza los procesos de negocio definidos en el alcance del proyecto.",
       photo: "/images/team/99ee97b5-9821-4c15-9984-223c3bfcd3b3.png",
       email: "clopez@expertpro.cl"

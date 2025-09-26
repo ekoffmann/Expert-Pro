@@ -30,10 +30,10 @@ const ContactSection = () => {
   ];
 
   const budgetRanges = [
-    'Hasta $50K USD',
+    'Hasta $10K USD',
+    '$10K - $50K USD',
     '$50K - $100K USD',
-    '$100K - $250K USD',
-    '$250K - $500K USD',
+    '$100K - $500K USD',
     'Más de $500K USD',
     'Aún no definido'
   ];

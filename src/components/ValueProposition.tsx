@@ -19,7 +19,7 @@ const ValueProposition = () => {
       icon: Shield,
       title: "IA Confiable y Segura",
       description: "Integramos ciberseguridad, compliance y ética desde el diseño. Certificados ISO 27001 y preparados para la nueva regulación de IA en Chile.",
-      highlight: "ISO 27001 Certified"
+      highlight: "Procesos ISO 27001"
     },
     {
       icon: TrendingUp,
